@@ -1,1 +1,1 @@
-# Java-al-malar-m-Patika
+# Patika üzerinde Java 101 dersine ait çalışmalarım
